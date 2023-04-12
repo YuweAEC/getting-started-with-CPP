@@ -11,7 +11,9 @@ Getting started with c++
 
 ## Introduction
 
-
+Adding my c++ learning journey into my git repos.
+>
+>>
 
 ## Authors
 
