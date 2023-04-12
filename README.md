@@ -5,16 +5,18 @@
  - Authors
  - Acknowledgements
 
-## Ttile
+## Title
 
-
+Getting started with c++
 
 ## Introduction
 
 
+
 ## Authors
 
+ - **Yuvraj Singh**
 
 ## Acknowledgemnets
 
-
+ - **Gaurav Singh**
